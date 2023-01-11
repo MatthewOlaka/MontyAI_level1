@@ -1,1 +1,2 @@
-# MontyAI_level1
+# MontyAI
+Maze Game. Player wins by guiding Monty home.
